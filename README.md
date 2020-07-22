@@ -1,4 +1,4 @@
-## Table of Contents - Tutorials
+## Table of Programming Contents
 
 
 | Name | Publishing Date | Categories | Links |
@@ -21,12 +21,14 @@
 | Creating Barplots with Python using Matplotlib | Apr 07, 2019 | Programming | https://www.youtube.com/watch?v=P5G7TamEbUg |
 | Renaming Multiple Files with Python using OS.rename | Apr 6, 2019 | Programming | https://www.youtube.com/watch?v=4HU5DiGD4lY |
 | Webscraping Birthdays from Wiki with Python using BeautifulSoup | Mar 28, 2019 | Programming | https://www.youtube.com/watch?v=IsMvPcQzncU |
-| Webscraping Images with Python using BeautifulSoup | Mar 26, 2019 | Programming | https://www.youtube.com/watch?v=9RgzNgxeVxg |
-| Inkscape - Bezier Tool & Wolverine Illustration | Nov 6, 2016 | Inkscape | https://www.youtube.com/watch?v=Tc53adwZ-Fk |
-| Inkscape - Smartphone Flat Illustration | Nov 5, 2016 | Inkscape | https://www.youtube.com/watch?v=9RgzNgxeVxg |
-| Inkscape - Nodes | Nov 03, 2016 | Inkscape | https://www.youtube.com/watch?v=6UhJ70byNPU |
-| Inkscape - Basics | Nov 01, 2016 | Inkscape | https://www.youtube.com/watch?v=mBWn-yzvhMU |
-
+| Getting Started with Django | June 21, 2020| Programming | https://amitabhadey.com/programming/getting-started-with-django/ |
+| Building an Image Classifier using TensorFlow | Aug 23, 2018 | Programming | https://medium.com/datadriveninvestor/building-an-image-classifier-using-tensorflow-3ac9ccc92e7c |
+| How to become a Data Scientist? | Aug 17, 2018 | Programming | https://medium.com/coinmonks/how-to-become-a-data-scientist-dd9962a12a77 |
+| Machine Learning Model: Logistic Regression | Aug 14, 2018 | Programming | https://medium.com/datadriveninvestor/machine-learning-model-logistic-regression-5fa4ffde5773 |
+| Machine Learning Model: Simple Linear Regression | July 23, 2018 | Programming | https://medium.com/datadriveninvestor/machine-learning-model-simple-linear-regression-dbedb22ce200 |
+| Data Preprocessing for Machine Learning | July 06, 2018 | Programming | https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c |
+| Performing Twitter Sentiment Analysis | April 06, 2018 | Programming | https://medium.com/@amitabhadey/performing-twitter-sentiment-analysis-cc9d4d62ab14 |
+| Getting Started with Python | Mar 10, 2018 | Programming | https://medium.com/@amitabhadey/getting-started-with-python-for-data-science-machine-learning-b9e5c906e1a2 |
 
 📫 How to reach me: www.amitabhadey.com
 
