@@ -3,6 +3,7 @@
 
 | Name | Publishing Date | Categories | Links |
 | --- | --- | --- | --- |
+| Python OOP Data Encapsulation | Jul 23, 2020 | Programming | https://www.youtube.com/watch?v=-ydN_IvutTE |
 | Python OOP Introduction | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=-WJiNNGxWAY |
 | Python OOP Class and Objects | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=WpUMdMOvY-I |
 | Python OOP Functions | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=Yq2rTjCAf8g |
