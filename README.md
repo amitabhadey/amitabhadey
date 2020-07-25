@@ -3,13 +3,14 @@
 ## Table of Programming Contents - 
 | Name | Publishing Date | Categories | Links |
 | --- | --- | --- | --- |
+| Python OOP Abstraction | Jul 23, 2020 | Programming | https://www.youtube.com/watch?v=O3WUyo9ipag |
 | Python OOP Data Encapsulation | Jul 23, 2020 | Programming | https://www.youtube.com/watch?v=-ydN_IvutTE |
-| Python OOP Introduction | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=-WJiNNGxWAY |
-| Python OOP Class and Objects | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=WpUMdMOvY-I |
-| Python OOP Functions | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=Yq2rTjCAf8g |
-| Python OOP Functions within Functions | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=7wqCx4a_tWA |
-| Python OOP Inheritance | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=-WJiNNGxWAY |
 | Python OOP Polymorphism | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=9-AohWiqLSU |
+| Python OOP Inheritance | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=-WJiNNGxWAY |
+| Python OOP Functions within Functions | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=7wqCx4a_tWA |
+| Python OOP Functions | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=Yq2rTjCAf8g |
+| Python OOP Class and Objects | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=WpUMdMOvY-I |
+| Python OOP Introduction | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=-WJiNNGxWAY |
 | Creating Git repos and Adding Files from the Terminal | Jul 08, 2020 | Programming | https://www.youtube.com/watch?v=5awj_-uNpRM |
 | Dijkstra's Algorithm in Python Explained | Apr 26, 2019 | Programming | https://www.youtube.com/watch?v=Ub4-nG09PFw |
 | Understanding Dijkstra's Algorithm | Apr 23, 2019 | Programming | https://www.youtube.com/watch?v=KfbS6c9LneE |
@@ -30,26 +31,3 @@
 | Data Preprocessing for Machine Learning | July 06, 2018 | Programming | https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c |
 | Performing Twitter Sentiment Analysis | April 06, 2018 | Programming | https://medium.com/@amitabhadey/performing-twitter-sentiment-analysis-cc9d4d62ab14 |
 | Getting Started with Python | Mar 10, 2018 | Programming | https://medium.com/@amitabhadey/getting-started-with-python-for-data-science-machine-learning-b9e5c906e1a2 |
-
-
-
-
-
-
-
-
-
-<!--
-**amitabhadey/amitabhadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
