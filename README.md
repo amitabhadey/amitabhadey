@@ -1,4 +1,3 @@
-Hi, I’m Amit. I’m a programmer, a writer, and an avid consumer of pop-culture. I love learning about the complexities of the world and turning them into simple words. 
 📫 You can reach me at: www.amitabhadey.com
 
 ## Table of Programming Contents - 
