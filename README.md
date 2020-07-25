@@ -1,6 +1,7 @@
+Hi, I’m Amit. I’m a programmer, a writer, and an avid consumer of pop-culture. I love learning about the complexities of the world and turning them into simple words. 
+📫 You can reach me at: www.amitabhadey.com
+
 ## Table of Programming Contents - 
-
-
 | Name | Publishing Date | Categories | Links |
 | --- | --- | --- | --- |
 | Python OOP Data Encapsulation | Jul 23, 2020 | Programming | https://www.youtube.com/watch?v=-ydN_IvutTE |
@@ -31,7 +32,7 @@
 | Performing Twitter Sentiment Analysis | April 06, 2018 | Programming | https://medium.com/@amitabhadey/performing-twitter-sentiment-analysis-cc9d4d62ab14 |
 | Getting Started with Python | Mar 10, 2018 | Programming | https://medium.com/@amitabhadey/getting-started-with-python-for-data-science-machine-learning-b9e5c906e1a2 |
 
-📫 How to reach me: www.amitabhadey.com
+
 
 
 
