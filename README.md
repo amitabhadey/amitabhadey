@@ -1,4 +1,4 @@
-## My Digital Home: www.amitabhadey.com 📫 
+## 📫 www.amitabhadey.com  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amitabhadey&show_icons=true&theme=dark)
 
