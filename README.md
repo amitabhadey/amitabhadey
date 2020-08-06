@@ -1,6 +1,13 @@
 ## 📫 www.amitabhadey.com  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amitabhadey&show_icons=true&theme=dark)
+
+<img align="center" src="https://github-readme-stats.vercel.app//api?username=amitabhadey&show_icons=true&include_all_commits=true&theme=radical" alt="Amitabha's github stats" />
+
+
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhadey&layout=compact&theme=radical" />
+
 
 ## Table of Programming Content -
 | Title | Publishing Date | Links |
