@@ -9,14 +9,14 @@
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+       <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+      </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
        <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
       </td>
   </tbody>
 </table>
