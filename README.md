@@ -1,33 +1,26 @@
-📫 You can reach me at: www.amitabhadey.com
+## My Digital Home: www.amitabhadey.com 📫 
 
-## Table of Programming Contents - 
-| Name | Publishing Date | Categories | Links |
-| --- | --- | --- | --- |
-| Python OOP Abstraction | Jul 23, 2020 | Programming | https://www.youtube.com/watch?v=O3WUyo9ipag |
-| Python OOP Data Encapsulation | Jul 23, 2020 | Programming | https://www.youtube.com/watch?v=-ydN_IvutTE |
-| Python OOP Polymorphism | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=9-AohWiqLSU |
-| Python OOP Inheritance | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=-WJiNNGxWAY |
-| Python OOP Functions within Functions | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=7wqCx4a_tWA |
-| Python OOP Functions | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=Yq2rTjCAf8g |
-| Python OOP Class and Objects | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=WpUMdMOvY-I |
-| Python OOP Introduction | Jul 21, 2020 | Programming | https://www.youtube.com/watch?v=-WJiNNGxWAY |
-| Creating Git repos and Adding Files from the Terminal | Jul 08, 2020 | Programming | https://www.youtube.com/watch?v=5awj_-uNpRM |
-| Dijkstra's Algorithm in Python Explained | Apr 26, 2019 | Programming | https://www.youtube.com/watch?v=Ub4-nG09PFw |
-| Understanding Dijkstra's Algorithm | Apr 23, 2019 | Programming | https://www.youtube.com/watch?v=KfbS6c9LneE |
-| Webscraping Trending NYT Headlines with Python using BeautifulSoup | Apr 14, 2019 | Programming | https://www.youtube.com/watch?v=Jt1w29_OJ8E |
-| Building a voice-controlled music system with Python | Apr 12, 2019 | Programming | https://www.youtube.com/watch?v=kZ2xL_Nuzag |
-| Basics of a voice-controlled Program with Python using gTTS and speech recognition | Apr 11, 2019 | Programming | https://www.youtube.com/watch?v=Bbq19a6i2hU |
-| Creating Line Charts with Python using Matplotlib, Numpy and Pandas | Apr 10, 2019 | Programming | https://www.youtube.com/watch?v=K3aoZX5C3KU |
-| Creating Scatter plots with Python using Seaborn | Apr 09, 2019 | Programming | https://www.youtube.com/watch?v=4WqhO1gC2Fk |
-| Creating Pie Charts with Python using Pandas | Apr 08, 2019 | Programming | https://www.youtube.com/watch?v=c7CSsjbXW4Y |
-| Creating Barplots with Python using Matplotlib | Apr 07, 2019 | Programming | https://www.youtube.com/watch?v=P5G7TamEbUg |
-| Renaming Multiple Files with Python using OS.rename | Apr 6, 2019 | Programming | https://www.youtube.com/watch?v=4HU5DiGD4lY |
-| Webscraping Birthdays from Wiki with Python using BeautifulSoup | Mar 28, 2019 | Programming | https://www.youtube.com/watch?v=IsMvPcQzncU |
-| Getting Started with Django | June 21, 2020| Programming | https://amitabhadey.com/programming/getting-started-with-django/ |
-| Building an Image Classifier using TensorFlow | Aug 23, 2018 | Programming | https://medium.com/datadriveninvestor/building-an-image-classifier-using-tensorflow-3ac9ccc92e7c |
-| How to become a Data Scientist? | Aug 17, 2018 | Programming | https://medium.com/coinmonks/how-to-become-a-data-scientist-dd9962a12a77 |
-| Machine Learning Model: Logistic Regression | Aug 14, 2018 | Programming | https://medium.com/datadriveninvestor/machine-learning-model-logistic-regression-5fa4ffde5773 |
-| Machine Learning Model: Simple Linear Regression | July 23, 2018 | Programming | https://medium.com/datadriveninvestor/machine-learning-model-simple-linear-regression-dbedb22ce200 |
-| Data Preprocessing for Machine Learning | July 06, 2018 | Programming | https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c |
-| Performing Twitter Sentiment Analysis | April 06, 2018 | Programming | https://medium.com/@amitabhadey/performing-twitter-sentiment-analysis-cc9d4d62ab14 |
-| Getting Started with Python | Mar 10, 2018 | Programming | https://medium.com/@amitabhadey/getting-started-with-python-for-data-science-machine-learning-b9e5c906e1a2 |
+## Articles -
+| Title | Publishing Date | Links |
+| --- | --- | --- |
+| Intermediate Python for Finance | Last Updated on August 06, 2020 | https://amitabhadey.com/intermediate-python-for-finance/ |
+| Introduction to Python for Finance | Last Updated on August 05, 2020 | https://amitabhadey.com/introduction-to-python-for-finance/ |
+| Getting Started with Django | Last Updated on June 21, 2020 | https://amitabhadey.com/programming/getting-started-with-django/ |
+| Building an Image Classifier using TensorFlow | Last Updated on August 23, 2018 | https://medium.com/datadriveninvestor/building-an-image-classifier-using-tensorflow-3ac9ccc92e7c |
+| How to become a Data Scientist? | Last Updated on August 17, 2018 | https://medium.com/coinmonks/how-to-become-a-data-scientist-dd9962a12a77 |
+| Machine Learning Model: Logistic Regression | Last Updated on August 14, 2018 | https://medium.com/datadriveninvestor/machine-learning-model-logistic-regression-5fa4ffde5773 |
+| Machine Learning Model: Simple Linear Regression | Last Updated on July 23, 2018 | https://medium.com/datadriveninvestor/machine-learning-model-simple-linear-regression-dbedb22ce200 |
+| Data Preprocessing for Machine Learning | Last Updated on July 06, 2018 | https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c |
+| Performing Twitter Sentiment Analysis | Last Updated on April 06, 2018 | https://medium.com/@amitabhadey/performing-twitter-sentiment-analysis-cc9d4d62ab14 |
+| Getting Started with Python | Last Updated on Mar 10, 2018 | https://medium.com/@amitabhadey/getting-started-with-python-for-data-science-machine-learning-b9e5c906e1a2 |
+
+## Tutorials - 
+| Title | Publishing Date | Links |
+| --- | --- | --- |
+| Python OOP Playlist | Last updated on Jul 22, 2020 | https://www.youtube.com/playlist?list=PLv5h69-hQpoknc5GXiigI-bOeo-h8TeR3 |
+| Dijkstra's Algorithm Playlist | Last updated on Apr 30, 2020 | https://www.youtube.com/playlist?list=PLv5h69-hQpokWeMhQjIJK9fnd7NoOYDS8 |
+| Voice-Controlled Program Playlist | Last updated on Apr 12, 2019 | https://www.youtube.com/playlist?list=PLv5h69-hQpom-vsTH5b_rylci7sxrnI_I |
+| Data Visualization Playlist | Last updated on Apr 10, 2019 | https://www.youtube.com/playlist?list=PLv5h69-hQpok2aP_gf0Tv53LkyOGMkSlW |
+| Web Sraping Playlist | Last updated on Apr 14, 2019 | https://www.youtube.com/playlist?list=PLv5h69-hQpokOyU3y28fybCbwLkRMWAJs |
+
+![Amitabha's github stats](https://github-readme-stats.vercel.app/api?username=amitabhadey&show_icons=true&theme=dark)
