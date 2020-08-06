@@ -1,7 +1,7 @@
 ## My Digital Home: www.amitabhadey.com 📫 
 ![Amitabha's github stats](https://github-readme-stats.vercel.app/api?username=amitabhadey&show_icons=true&theme=dark)
 
-## Articles -
+## Table of Programming Content -
 | Title | Publishing Date | Links |
 | --- | --- | --- |
 | Intermediate Python for Finance | Last Updated on August 06, 2020 | https://amitabhadey.com/intermediate-python-for-finance/ |
@@ -14,10 +14,6 @@
 | Data Preprocessing for Machine Learning | Last Updated on July 06, 2018 | https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c |
 | Performing Twitter Sentiment Analysis | Last Updated on April 06, 2018 | https://medium.com/@amitabhadey/performing-twitter-sentiment-analysis-cc9d4d62ab14 |
 | Getting Started with Python | Last Updated on Mar 10, 2018 | https://medium.com/@amitabhadey/getting-started-with-python-for-data-science-machine-learning-b9e5c906e1a2 |
-
-## Tutorials - 
-| Title | Publishing Date | Links |
-| --- | --- | --- |
 | Python OOP Playlist | Last updated on Jul 22, 2020 | https://www.youtube.com/playlist?list=PLv5h69-hQpoknc5GXiigI-bOeo-h8TeR3 |
 | Dijkstra's Algorithm Playlist | Last updated on Apr 30, 2020 | https://www.youtube.com/playlist?list=PLv5h69-hQpokWeMhQjIJK9fnd7NoOYDS8 |
 | Voice-Controlled Program Playlist | Last updated on Apr 12, 2019 | https://www.youtube.com/playlist?list=PLv5h69-hQpom-vsTH5b_rylci7sxrnI_I |
