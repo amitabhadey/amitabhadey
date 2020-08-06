@@ -4,6 +4,23 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhadey&layout=compact&theme=gotham" />
 
 
+<table>
+  <tbody>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+       <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+  </tbody>
+</table>
+
 ## Table of Programming Content -
 | Title | Publishing Date | Links |
 | --- | --- | --- |
