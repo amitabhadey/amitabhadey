@@ -1,5 +1,8 @@
 ## My Digital Home: www.amitabhadey.com 📫 
-![Amitabha's github stats](https://github-readme-stats.vercel.app/api?username=amitabhadey&show_icons=true&theme=dark)
+
+<div align="center">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amitabhadey&show_icons=true&theme=dark)
+</div>
 
 ## Table of Programming Content -
 | Title | Publishing Date | Links |
