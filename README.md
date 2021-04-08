@@ -8,10 +8,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
        <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
        <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
