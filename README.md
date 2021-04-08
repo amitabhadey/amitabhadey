@@ -1,6 +1,7 @@
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app//api?username=amitabhadey&show_icons=true&include_all_commits=true&theme=gotham" alt="Amitabha's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhadey&layout=compact&theme=gotham" />
-
+-->
 
 <table>
   <tbody>
