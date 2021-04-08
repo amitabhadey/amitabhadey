@@ -4,17 +4,20 @@
 
 <table>
   <tbody>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+       <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg">
       </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
-       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+       <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
   </tbody>
 </table>
