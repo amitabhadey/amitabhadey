@@ -3,6 +3,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhadey&layout=compact&theme=gotham" />
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitabhadey&show_icons=true&theme=gotham)
+
+
 <table>
   <tbody>
       <td width="20%" align="center">
